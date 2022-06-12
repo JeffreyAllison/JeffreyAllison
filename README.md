@@ -6,6 +6,8 @@ In my free time I'm usually reading, playing guitar, and spending time outside.
 
 I'm currently learning postgreSQL, Express, and Node.js for React backend applications.
 
+Feel free to reach me at itsjallison@gmail.com
+
 <!--
 **JeffreyAllison/JeffreyAllison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
