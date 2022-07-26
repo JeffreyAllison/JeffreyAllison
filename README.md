@@ -8,7 +8,7 @@ I'm currently learning advanced Fullstack Javascript applications.
 
 Current skills & tech stack: <br>
 Javascript | React JS | HTML | CSS Express | Node.js | REST APIs | Supabase | PostgresSQL | SQL | Git | GitHub | VScode | Netlify | Heroku | Postman |
-Beekeeper | Miro | Slack | Discord | Jest | Mongo DB/Mongoose
+Beekeeper | Miro | Slack | Discord.js | Jest | Mongo DB/Mongoose
 
 Feel free to reach me at itsjallison@gmail.com
 
