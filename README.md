@@ -4,7 +4,7 @@ My name is Jeff (he/him), and I'm a full stack software developer, possessing 10
 
 In my free time I'm usually reading, playing guitar, and spending time outside.
 
-I'm currently learning postgreSQL, Express, and Node.js for React backend applications.
+I'm currently learning advanced Fullstack Javascript applications.
 
 Feel free to reach me at itsjallison@gmail.com
 
