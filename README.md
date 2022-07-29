@@ -6,7 +6,7 @@ In my free time I'm usually reading, playing guitar, and spending time outside.
 
 I'm currently learning advanced Fullstack Javascript applications.
 
-Current skills & experience tech stack: <br>
+Current tech skills & experience: <br>
 Javascript | React JS | HTML | CSS | Express.js | Node.js | RESTful APIs | Supabase | PostgresSQL | SQL | Git | GitHub | VScode | Netlify | Heroku | Postman | Beekeeper | Miro | Slack | Discord.js | Jest | Mongo DB/Mongoose
 
 Feel free to reach me at itsjallison@gmail.com
