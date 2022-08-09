@@ -2,7 +2,7 @@
 
 My name is Jeff (he/him), and I'm a full stack software developer, possessing 10 years of public service experience, with an emphasis on report writing, inventory management, collaboration, and strategic communication. I'm drawn to opportunities to create, streamline, and remediate in a team environment. 
 
-In my free time I'm usually reading, doing somethign music related, and spending time outside.
+In my free time I'm usually reading, doing something music related, and spending time outside.
 
 I'm currently learning advanced Fullstack Javascript applications.
 
